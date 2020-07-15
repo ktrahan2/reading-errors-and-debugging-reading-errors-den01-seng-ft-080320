@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number".set.i
+"1" + "is the loneliest number"
